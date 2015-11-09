@@ -1,4 +1,4 @@
-# Welcome to TriForce's Wiki Page
+# Welcome to TriForce's Robot Project
 _Members:_ Anh Pham, Brent Carey, Hieu Tran 
 
 Mission: This page will be used to document our group's progress through the Robots course. It will follow the building and programming of our robot and give an overview of tasks we complete in class.
