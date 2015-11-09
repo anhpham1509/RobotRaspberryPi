@@ -1,5 +1,3 @@
-# RobotRaspberryPi
-raspberrypi_robot
 # Welcome to TriForce's Wiki Page
 _Members:_ Anh Pham, Brent Carey, Hieu Tran 
 
